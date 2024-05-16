@@ -4,4 +4,4 @@ primeira linguagem de programação e a mais utilizada em minha formação.**</s
 
 
 
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
